@@ -1,6 +1,7 @@
 .login{
   color:blue;
   float:right;
+  margin-right:5%;
 }
 #tabs{
 
@@ -38,5 +39,9 @@ h3 {
   padding-left: 10px;
 }
 #welcomelist{
-
+padding-top: 60px;
+color: blue;
+}
+#test {
+  float: right;
 }
