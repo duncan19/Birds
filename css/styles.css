@@ -1,0 +1,34 @@
+.login{
+  color:blue;
+  float:right;
+}
+#tabs{
+
+}
+#logo {
+  float:left;
+}
+#othertabs {
+
+}
+h3 {
+  text-decoration: underline;
+  margin-left: 40px;
+}
+.wikisidebar {
+  margin-left: 1px;
+  list-style-type: none;
+}
+.nav>li>a {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 40px;
+}
+#tabmargin{
+  padding-right: 700px;
+}
+#searchbar{
+  width: 200px;
+}
