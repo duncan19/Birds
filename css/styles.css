@@ -32,3 +32,11 @@ h3 {
 #searchbar{
   width: 200px;
 }
+.welcome{
+  background-color: lightgrey;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+#welcomelist{
+
+}
